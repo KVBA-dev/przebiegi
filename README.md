@@ -8,5 +8,5 @@ Kreator przebiegów czasowych w języku Odin.
 2. Dodaj kompilator do zmiennej środowiskowej PATH
 3. Z poziomu tego folderu uruchom polecenie
 ```
-odin run src -out:przebiegi
+odin run src -out:bin/przebiegi
 ```
